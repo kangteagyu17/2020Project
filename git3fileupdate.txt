@@ -1,6 +1,0 @@
-git pull
-
-파일을 수정한다 그 후 gs(git status)를 입력 수정이 되어있는지 확인한다
-
-git add 해주고
-git commit 커밋메세지 입력 그 후 푸시!
