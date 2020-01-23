@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">dust</string>
+
+    <string name="searchhint">지역이름을 입력하세요 ex)관악구</string>
+    <string name="srarch">검색</string>
+    <string name="nowposition">현재위치</string>
+    <string name="nowpositiontext">이곳에 현재위치가 나올 예정</string>
+
+
+    <string name = "nowweather">현재날씨 : </string>
+    <string name="smalldust">미세먼지 : </string>
+    <string name="supersmalldust">초미세먼지 : </string>
+
+    <string name="good">좋음</string>
+    <string name="nomal">보통</string>
+    <string name="bad">나쁨</string>
+    <string name="verybad">매우나쁨</string>
+
+    <string name="seoul">서울</string>
+    <string name="incheon">인천</string>
+
+</resources>
