@@ -7,7 +7,7 @@
     <string name="nowpositiontext">이곳에 현재위치가 나올 예정</string>
 
 
-    <string name = "nowweather">현재날씨 : </string>
+    <string name = "so2">So2 농도 : </string>
     <string name="smalldust">미세먼지 : </string>
     <string name="supersmalldust">초미세먼지 : </string>
 

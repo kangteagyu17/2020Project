@@ -43,7 +43,7 @@ class RecyclerAdapter (private val items:ArrayList<APIItem>):
 
             var txt_place = item.place
             view.txt_place.text = item.place
-            view.txt_nowweather.text = item.nowweather
+            view.txt_nowweather.text = item.So2
             view.txt_smalldust.text = item.smalldust
             view.txt_supersmalldust.text =item.supersmalldust
             view.setOnClickListener(listener)

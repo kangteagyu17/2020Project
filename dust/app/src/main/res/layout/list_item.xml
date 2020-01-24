@@ -31,7 +31,7 @@
         android:layout_height="25sp"
         android:layout_marginStart="20dp"
         android:layout_marginTop="20dp"
-        android:text="@string/nowweather"
+        android:text="@string/so2"
         app:layout_constraintStart_toEndOf="@+id/iv_place"
         app:layout_constraintTop_toTopOf="parent" />
 
